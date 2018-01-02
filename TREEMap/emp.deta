@@ -1,0 +1,4 @@
+EmployeeDetails [firstName=Sam, lastName=Rao, age=24, gender=M, address=EmployeeAdress [flatNo=102, locality=bangalore, city=Bangalore, pinCode=657783], company=CompanyDetails [CompanyName=wipro, address=bangalore, type=software]]
+
+EmployeeDetails [firstName=samir, lastName=rout, age=23, gender=M, address=EmployeeAdress [flatNo=101, locality=bangalore, city=Bangalore, pinCode=657783], company=CompanyDetails [CompanyName=Accenture, address=Bangalore, type=Software]]
+
